@@ -42,4 +42,17 @@
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
+    .padding-line{
+        background-color: #070707;
+        padding: 30px;
+
+    }
+
+    .white-line{
+
+        background-color: #fffefe;
+        padding: 10px;
+
+    }
+
 
