@@ -1,0 +1,45 @@
+.raptor-text{
+    
+    color: rgb(243, 27, 27);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   }
+
+   .intro-raptor {
+    font-size: 18px;
+    color: #c9cc00;
+    font-weight: bolder;
+    text-align: center;
+   
+    background-color: #272525;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+    .key-c {
+        font-size: 30px;
+        color: rgb(245, 64, 100);
+    text-shadow: #272525;
+        font-style: oblique;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .point-r{
+        font-size: 30px;
+        font-weight: bold;
+        color: rgb(220, 127, 20);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .about-point{
+        font-size: 20px;
+        color: rgb(13, 172, 27);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+
