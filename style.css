@@ -52,7 +52,11 @@
 
         background-color: #fffefe;
         padding: 10px;
+    }
 
+    .img-raptor{
+        max-width: 100%;
+        height: auto;
     }
 
 
